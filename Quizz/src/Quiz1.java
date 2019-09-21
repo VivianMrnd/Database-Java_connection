@@ -14,7 +14,6 @@ public class Quiz1 {
 
 	public static void main(String[] args) throws SQLException {
 		
-		boolean run = true;
 		System.out.println("Please enter the following details: ");
 		System.out.print("Lastname: ");
 		String Lname = user.nextLine();
